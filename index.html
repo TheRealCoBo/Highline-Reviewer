@@ -171,6 +171,14 @@ let addedItems = {}; // { repName: [items] }
 let currentRep = null;
 let showingAddRow = false;
 
+
+function displayCustomer(name) {
+  // Strip "ZZ " prefix used as sort hack (forces New Hire Bonus to bottom)
+  var s = String(name || '');
+  if (s.substring(0, 3) === 'ZZ ') return s.substring(3);
+  return s;
+}
+
 function fmtMoney(n) {
   const v = Math.round(Number(n) || 0);
   return (v < 0 ? '-$' : '$') + Math.abs(v).toLocaleString();
@@ -286,7 +294,7 @@ function renderDetail(repName) {
     return `
     <div class="line-item ${isDel ? 'deleted' : ''}" id="li-${it.id}">
       <div class="li-top">
-        <span class="customer">${escH(it.customer)}</span>
+        <span class="customer">${escH(displayCustomer(it.customer))}</span>
         <span class="revenue-badge">Rev: ${fmtMoney(it.revenue)}</span>
       </div>
       <div class="li-fields three">
