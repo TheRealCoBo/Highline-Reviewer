@@ -1,0 +1,30 @@
+{
+  "v": 2,
+  "period": {
+    "from": "4/20/2026",
+    "to": "4/26/2026"
+  },
+  "office": "Highline Management Team, Inc.",
+  "ts": 1777512333365,
+  "changes": {
+    "modified": [
+      {
+        "rep": "Miriam Reyes",
+        "id": 13,
+        "customer": "ZZ New Hire Bonus",
+        "orig": {
+          "rep": "Miriam Reyes",
+          "detail": "Week 2 Bills Pulled 34 x $50",
+          "repPay": 1700
+        },
+        "edit": {
+          "rep": "Miriam Reyes",
+          "detail": "Week 2 Bills Pulled 34 x $50",
+          "repPay": 1350
+        }
+      }
+    ],
+    "added": [],
+    "deleted": []
+  }
+}
