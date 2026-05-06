@@ -1,0 +1,120 @@
+{
+  "v": 2,
+  "period": {
+    "from": "4/27/2026",
+    "to": "5/3/2026"
+  },
+  "office": "Highline Management Team, Inc.",
+  "ts": 1778102579799,
+  "changes": {
+    "modified": [
+      {
+        "rep": "Toby Ringel",
+        "id": 6,
+        "customer": "ZZ New Hire Bonus",
+        "orig": {
+          "rep": "Toby Ringel",
+          "detail": "Week 2 Bills Pulled 18 x $50",
+          "repPay": 900
+        },
+        "edit": {
+          "rep": "Toby Ringel",
+          "detail": "Week 2 Bills Pulled 18 x $50",
+          "repPay": 800
+        }
+      },
+      {
+        "rep": "Terrel Watson",
+        "id": 0,
+        "customer": "Bpa Facility Services",
+        "orig": {
+          "rep": "Terrel Watson",
+          "detail": "Below 40k TX",
+          "repPay": 160
+        },
+        "edit": {
+          "rep": "Terrel Watson",
+          "detail": "Below 40k TX",
+          "repPay": 110
+        }
+      },
+      {
+        "rep": "Terrel Watson",
+        "id": 1,
+        "customer": "Bpa Facility Services",
+        "orig": {
+          "rep": "Terrel Watson",
+          "detail": "36 Month +",
+          "repPay": 45
+        },
+        "edit": {
+          "rep": "Terrel Watson",
+          "detail": "36 Month +",
+          "repPay": 40
+        }
+      },
+      {
+        "rep": "Terrel Watson",
+        "id": 2,
+        "customer": "Lares Auto",
+        "orig": {
+          "rep": "Terrel Watson",
+          "detail": "Below 40k TX",
+          "repPay": 120
+        },
+        "edit": {
+          "rep": "Terrel Watson",
+          "detail": "Below 40k TX",
+          "repPay": 90
+        }
+      },
+      {
+        "rep": "Terrel Watson",
+        "id": 3,
+        "customer": "Lares Auto",
+        "orig": {
+          "rep": "Terrel Watson",
+          "detail": "36 Month +",
+          "repPay": 45
+        },
+        "edit": {
+          "rep": "Terrel Watson",
+          "detail": "36 Month +",
+          "repPay": 40
+        }
+      },
+      {
+        "rep": "Robert Moser",
+        "id": 2,
+        "customer": "Ho Mei Express Chinese Kitchen & Hibachi, INC.",
+        "orig": {
+          "rep": "Robert Moser",
+          "detail": "Above 40k TX",
+          "repPay": 0
+        },
+        "edit": {
+          "rep": "Robert Moser",
+          "detail": "Above 40k TX",
+          "repPay": 175
+        }
+      },
+      {
+        "rep": "Aimee Garibay-Gutierrez",
+        "id": 6,
+        "customer": "Vicela Crafted Excellence",
+        "orig": {
+          "rep": "Aimee Garibay-Gutierrez",
+          "detail": "Above 40k TX",
+          "repPay": 0
+        },
+        "edit": {
+          "rep": "Aimee Garibay-Gutierrez",
+          "detail": "Above 40k TX",
+          "repPay": 140
+        }
+      }
+    ],
+    "added": [],
+    "deleted": []
+  }
+}
