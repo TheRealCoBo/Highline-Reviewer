@@ -1,0 +1,255 @@
+{
+  "v": 2,
+  "period": {
+    "from": "5/4/2026",
+    "to": "5/10/2026"
+  },
+  "office": "Highline Management Team, Inc.",
+  "ts": 1778692476984,
+  "changes": {
+    "modified": [
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 0,
+        "customer": "Ambient Productions LLC.",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "Below 40k TX",
+          "repPay": 275
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "Below 40k TX",
+          "repPay": 120
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 1,
+        "customer": "Ambient Productions LLC.",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "Tier 1",
+          "repPay": 100
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "Tier 1",
+          "repPay": 50
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 2,
+        "customer": "Ambient Productions LLC.",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "36 Month +",
+          "repPay": 100
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "36 Month +",
+          "repPay": 45
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 3,
+        "customer": "Color Factory Dfw",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "Below 40k TX",
+          "repPay": 275
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "Below 40k TX",
+          "repPay": 120
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 4,
+        "customer": "Color Factory Dfw",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "Tier 1",
+          "repPay": 100
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "Tier 1",
+          "repPay": 50
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 5,
+        "customer": "Color Factory Dfw",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "36 Month +",
+          "repPay": 100
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "36 Month +",
+          "repPay": 45
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 6,
+        "customer": "Juan Montoya",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "Below 40k TX",
+          "repPay": 190
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "Below 40k TX",
+          "repPay": 88
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 7,
+        "customer": "Juan Montoya",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "Tier 1",
+          "repPay": 100
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "Tier 1",
+          "repPay": 49
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 8,
+        "customer": "Juan Montoya",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "36 Month +",
+          "repPay": 100
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "36 Month +",
+          "repPay": 44
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 9,
+        "customer": "Maria Ayala",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "Above 40k TX",
+          "repPay": 310
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "Above 40k TX",
+          "repPay": 139
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 10,
+        "customer": "Maria Ayala",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "100k+ TX",
+          "repPay": 350
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "100k+ TX",
+          "repPay": 165
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 11,
+        "customer": "Maria Ayala",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "Tier 1",
+          "repPay": 100
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "Tier 1",
+          "repPay": 50
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 12,
+        "customer": "Maria Ayala",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "36 Month +",
+          "repPay": 150
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "36 Month +",
+          "repPay": 70
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 13,
+        "customer": "Staggs Plumming LLC.",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "Below 40k TX",
+          "repPay": 275
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "Below 40k TX",
+          "repPay": 120
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 14,
+        "customer": "Staggs Plumming LLC.",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "Tier 1",
+          "repPay": 100
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "Tier 1",
+          "repPay": 50
+        }
+      },
+      {
+        "rep": "Ryan Mcspadden",
+        "id": 15,
+        "customer": "Staggs Plumming LLC.",
+        "orig": {
+          "rep": "Ryan Mcspadden",
+          "detail": "36 Month +",
+          "repPay": 100
+        },
+        "edit": {
+          "rep": "Thomas Crenshaw",
+          "detail": "36 Month +",
+          "repPay": 45
+        }
+      }
+    ],
+    "added": [],
+    "deleted": []
+  }
+}
